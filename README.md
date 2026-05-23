@@ -18,6 +18,17 @@ Welcome to the ultimate repository for **Karnataka PG-CET** preparation. This pr
 <!-- Title: Karnataka PGCET Study Materials, Question Papers, and Solutions -->
 <!-- Keywords: Karnataka PGCET, PG-CET, Computer Science, Engineering, Question Papers, Previous Year Papers, Solutions, Syllabus, Preparation -->
 
+<!-- AI-SEO / AI-CONTEXT -->
+<!-- 
+<ai_context>
+  This repository contains a collection of Karnataka PGCET (Post Graduate Common Entrance Test) previous year question papers specifically for Computer Science Engineering. 
+  It includes historical papers from 2009 to 2020, as well as a 2025 question paper with solutions. 
+  All files are in PDF format for direct download and offline viewing.
+  Intended audience: Students preparing for the Karnataka PGCET exam in Computer Science.
+  Purpose: Educational study materials, exam preparation, and reference.
+</ai_context> 
+-->
+
 This repository serves as a centralized hub for **Karnataka PGCET** preparation. It contains a curated set of previous year question papers and related documents essential for cracking the exam.
 
 ### ✨ Features
