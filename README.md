@@ -4,6 +4,14 @@
   <p>A comprehensive collection of previous year question papers and study materials for the Karnataka Post Graduate Common Entrance Test (PGCET) for Computer Science Engineering.</p>
 </div>
 
+Welcome to the ultimate repository for **Karnataka PG-CET** preparation. This project is designed to provide students with high-quality, organized resources to crack the entrance exams for MCA, MBA, and M.Tech programs under **VTU (Visvesvaraya Technological University)** and other major institutions.
+
+## ✨ Key Features
+- 📚 **Syllabus-Specific Notes:** Categorized by subject and importance.
+- 📝 **Previous Year Papers:** Solved question papers for better practice.
+- 🛠️ **Preparation Strategy:** Tips and roadmaps for effective studying.
+- 📱 **Quick Access:** Organized documentation for on-the-go learning.
+
 ## 📌 About
 
 <!-- SEO Metadata -->
